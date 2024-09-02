@@ -64,3 +64,7 @@ li a:hover, li a.active{
     display: flex;
     align-items: center;
 }
+
+.hero-content{
+    background-color: #E6DACE;
+}
